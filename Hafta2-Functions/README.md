@@ -54,7 +54,7 @@
         { name: "Can", grades: [75, 70, 80] }
     ];
 
-    -Yukarıda verilen "students" isimli dizide verilen işlemleri yapmanız istenmektedir.
+- Yukarıda verilen "students" isimli dizide verilen işlemleri yapmanız istenmektedir.
 
         1. Ekrana her bir  öğrencinin adını, sınav notlarını, sınav ortalamalarını yazdırınız.
         2. Her bir öğrencinin ortalamasına göre geçip geçmediğine göre kontrol yapınız.
