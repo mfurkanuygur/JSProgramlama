@@ -1,0 +1,7 @@
+p {
+    color: yellow;
+}
+
+#btn:hover{
+    background-color: blue;
+}
