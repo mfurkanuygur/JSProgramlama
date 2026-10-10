@@ -1,6 +1,6 @@
-### Javascript Konuları
+## Javascript Konuları
 
-## Hafta 1
+### Hafta 1
 - Algoritma, Programlama, Yazılım Nedir?
 - JavaScript Tarihi
 - JavaScript Kullanım Alanları 
@@ -10,6 +10,6 @@
 - Koşullar 
 - Loops(Döngüler)
 
-## Hafta 2
+### Hafta 2
 
 - Functions 
