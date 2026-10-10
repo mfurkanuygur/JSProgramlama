@@ -1,37 +1,3 @@
-// // *****
-// // ****
-// // ***
-// // **
-// // *
-
-// for (let i = 0; i < 5; i++) { 
-//     let stars=""
-//     for(let j=5;j>i;j--){
-//         stars+="*"
-//     }
-//     console.log(stars)
-// }
-
-// for (let i = 1; i < 6; i++) {
-//     let stars = ""
-//     for (let j = 0; j < i; j++) {
-//         stars += "*"
-//     }
-//     console.log(stars)
-// }
-
-
-// function sum(a, b) {
-//     console.log(arguments)
-//     let total = 0
-//     for (let i = 0; i < arguments.length; i++) {
-//         total += arguments[i]
-//     }
-//     console.log(total)
-// }
-// sum(1, 2, 3, 4)
-
-
 const students = [
     { name: "Ali", grades: [70, 80, 65] },
     { name: "Ayşe", grades: [90, 85, 95] },
@@ -90,6 +56,7 @@ function calculateClassAverage(students) {
     return Math.round(total / numberofExam)
 }
 
+// En başarılı ve en başarısız öğrenci,not 
 function biggestAverage(students) {
     let bestAvg = 0
     let worstAvg = 100
