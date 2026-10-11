@@ -13,3 +13,9 @@
 ### Hafta 2
 
 - Functions 
+- Örnek Çözüm
+
+### Hafta 3
+
+- Objects
+- Arrays
