@@ -209,7 +209,7 @@ A) **push()** — sona eleman ekleme
 
         console.log(sayilar); --> Çıktı: [10,20,30,40]
 
-B) **unshift() **— başa eleman ekleme
+B) **unshift()**— başa eleman ekleme
 
         const sayilar = [20, 30, 40];
 
