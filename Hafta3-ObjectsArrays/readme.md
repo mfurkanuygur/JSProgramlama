@@ -15,10 +15,10 @@
             bolum: "Bilgisayar Mühendisliği"
         };
 
-- ogrenci: Nesnenin adı.
-- ad, yas, bolum: Nesnenin özellikleri (property).
-- "Ahmet", 20, "Frontend Development": Özelliklerin değerleri (value).
-- { }: Nesneyi tanımlamak için kullanılan süslü parantezler.
+- **ogrenci:** Nesnenin adı.
+- **ad, yas, bolum:** Nesnenin özellikleri (property).
+- **"Ahmet", 20, "Bilgisayar Mühendisliği":** Özelliklerin değerleri (value).
+- **{ }:** Nesneyi tanımlamak için kullanılan süslü parantezler.
 ---
 
 ### Object'in içindeki verilere erişme
