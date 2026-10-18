@@ -137,7 +137,7 @@ B) Köşeli parantez notasyonu
 
 ---
 ### Object ile Array arasındaki fark
-- **Array (Dizi): **Verileri sıralı şekilde tutar. Elemanlara genellikle indeks ile erişilir. Birden fazla ürünü veya öğrenciyi listelemek için uygundur.
+- **Array (Dizi):** Verileri sıralı şekilde tutar. Elemanlara genellikle indeks ile erişilir. Birden fazla ürünü veya öğrenciyi listelemek için uygundur.
   
 - **Object (Nesne):** İlişkili verileri özellik adlarıyla tutar. Bir ürünün, öğrencinin veya herhangi bir nesnenin özelliklerini bir arada tutmak için uygundur.
 ---
@@ -361,7 +361,7 @@ C) **find()** — koşulu sağlayan ilk elemanı bulma
 
 - Orijinal diziyi değiştirmezler. İlgili şartı/işlemi sağladıktan sonra yeni bir dizi olarak ilgili sonucu verirler. 
 
-    - ** map()** — Her elemanı dönüştürme
+    - **map()** — Her elemanı dönüştürme
         - Her eleman için bir işlem yaparak yeni bir dizi oluşturur.
 
                 const sayilar = [1, 2, 3];
