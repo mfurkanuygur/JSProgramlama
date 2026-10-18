@@ -7,19 +7,9 @@
 // - kitapKategori
 // - kitapYayinYili
 // - kitapOduncDurumu
-// - stokAdedi
+// - kitapStokAdedi
 
 // Örnek bir kitap objesi şu şekilde olur:
-const ornekKitap = {
-    id: 1,
-    kitapAdi: "Kürk Mantolu Madonna",
-    kitapYazari: "Sabahattin Ali",
-    kitapKategori: "Roman",
-    kitapYayinYili: 1943,
-    stokAdedi: 3,
-    kitapOduncDurumu: true
-};
-
 const books = [
     {
         id: 1,
@@ -27,8 +17,8 @@ const books = [
         kitapYazari: "Sabahattin Ali",
         kitapKategori: "Roman",
         kitapYayinYili: 1943,
-        stokAdedi: 3,
-        kitapOduncDurumu: true
+        kitapStokAdedi: 3,
+        kitapOduncDurumu: true,
     },
     {
         id: 2,
@@ -36,8 +26,8 @@ const books = [
         kitapYazari: "Victor Hugo",
         kitapKategori: "Klasik",
         kitapYayinYili: 1862,
-        stokAdedi: 0,
-        kitapOduncDurumu: false
+        kitapStokAdedi: 0,
+        kitapOduncDurumu: false,
     },
     {
         id: 3,
@@ -45,8 +35,8 @@ const books = [
         kitapYazari: "George Orwell",
         kitapKategori: "Bilim Kurgu",
         kitapYayinYili: 1949,
-        stokAdedi: 5,
-        kitapOduncDurumu: true
+        kitapStokAdedi: 5,
+        kitapOduncDurumu: true,
     },
     {
         id: 4,
@@ -54,8 +44,8 @@ const books = [
         kitapYazari: "Paulo Coelho",
         kitapKategori: "Roman",
         kitapYayinYili: 1988,
-        stokAdedi: 2,
-        kitapOduncDurumu: true
+        kitapStokAdedi: 2,
+        kitapOduncDurumu: true,
     },
     {
         id: 5,
@@ -63,9 +53,9 @@ const books = [
         kitapYazari: "Fyodor Dostoyevski",
         kitapKategori: "Klasik",
         kitapYayinYili: 1866,
-        stokAdedi: 0,
-        kitapOduncDurumu: false
-    }
+        kitapStokAdedi: 0,
+        kitapOduncDurumu: false,
+    },
 ];
 
 
